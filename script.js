@@ -46,16 +46,16 @@ const i18n = {
       "A trilogy of books, a 70K community, and a Latin-American lettering scene that didn't exist before. Built with my wife from a side project into a small publishing operation.",
     "work.mylettering.cta": "Read the story →",
 
-    "work.edding.tag": "Brand strategy · 2022",
+    "work.edding.tag": "Content direction · 2022–2023",
     "work.edding.title": "edding LatAm",
     "work.edding.copy":
-      "Social and content direction for Colombia and Argentina during the relaunch of the brand's creative line. Worked with local letterers and illustrators instead of stock, rewrote the product copy in regional Spanish, and helped the regional channels grow around 40% in eighteen months.",
-    "work.edding.meta": "Brand & social · LATAM",
+      "Content direction for the brand's LATAM relaunch — Colombia first, then Argentina and the US. The method was unromantic: buyer personas, a creative guidelines manual, and campaigns built around the illustrators and letterers who actually use the product instead of stock. The regional social channels grew 40%+ in eighteen months and the brand became something LATAM artists started talking about.",
+    "work.edding.meta": "Content direction · LATAM",
 
-    "work.udes.tag": "Campaign · 2023",
+    "work.udes.tag": "Campaign · 2024",
     "work.udes.title": "UDES — Aprende, Aplica, Avanza",
     "work.udes.copy":
-      "Creative consulting on the 2023 launch campaign for the university's technical programs — the ones that rarely get the budget. One concept — <em>Aprende, Aplica, Avanza</em> — across OOH, radio, and digital, written for 18-year-olds in Santander who are deciding in real time whether college is worth it.",
+      "Creative consulting on UDES's launch campaign for the technical programs — the ones that rarely get the budget. Market analysis first, then one concept across OOH, radio, and digital: <em>Aprende, Aplica, Avanza</em>. Written for 18-year-olds in Bucaramanga deciding in real time whether college is worth it; positioned around immediate employability, not prestige. On air.",
     "work.udes.meta": "Aprende · Aplica · Avanza",
 
     "work.parentmap.tag": "Software · 2026",
@@ -89,9 +89,9 @@ const i18n = {
     "about.eyebrow": "About",
     "about.title": "Bruto pero decidido.",
     "about.p1":
-      "I started teaching almost by accident, covering a class for a friend. That first session is what got me here. Fifteen years later I still teach — design, communication, UX, and how to use AI without losing the craft — between Isthmus in Panama and Isthmus Norte in Mexico.",
+      "First class I ever taught, I was covering for a friend. I didn't know the students, didn't know the room, wasn't sure I'd come back the next week. Fifteen years later I'm still at it — now between Isthmus in Panama and Isthmus Norte in Mexico — design, communication, UX, and how to use AI without losing the craft.",
     "about.p2":
-      "The rest of the time — creative direction for brands, books with my wife, and small software side-projects to keep learning. The list is short because I prefer doing one thing well to ten things badly.",
+      "Outside the classroom: creative direction for brands like edding and UDES, three lettering books with my wife Alejandra at Editorial Planeta, and Certeza Creativa — the enrollment work I'm running right now for both schools. Short list. I prefer one thing done well to ten done badly.",
 
     "contact.eyebrow": "Contact",
     "contact.title": "Let's talk.",
@@ -152,16 +152,16 @@ const i18n = {
       "Una trilogía de libros, una comunidad de 70K y una escena latinoamericana de lettering que antes no existía. Lo construimos con mi esposa desde un proyecto paralelo hasta una pequeña operación editorial.",
     "work.mylettering.cta": "Leer la historia →",
 
-    "work.edding.tag": "Estrategia de marca · 2022",
+    "work.edding.tag": "Dirección de contenido · 2022–2023",
     "work.edding.title": "edding LatAm",
     "work.edding.copy":
-      "Dirección de contenido y social para Colombia y Argentina durante el relanzamiento de la línea creativa de la marca. Trabajamos con letteristas e ilustradores locales en vez de stock, reescribí el copy de producto en español regional y ayudé a que los canales crecieran alrededor de 40% en dieciocho meses.",
-    "work.edding.meta": "Marca y social · LATAM",
+      "Dirección de contenido para el relanzamiento LATAM de la marca — Colombia primero, luego Argentina y Estados Unidos. El método fue poco romántico: personas de marca, un manual de guías creativas y campañas construidas alrededor de los ilustradores y letteristas que de verdad usan el producto, en vez de stock. Los canales regionales crecieron 40%+ en dieciocho meses y la marca se volvió algo de lo que los artistas de LATAM empezaron a hablar.",
+    "work.edding.meta": "Dirección de contenido · LATAM",
 
-    "work.udes.tag": "Campaña · 2023",
+    "work.udes.tag": "Campaña · 2024",
     "work.udes.title": "UDES — Aprende, Aplica, Avanza",
     "work.udes.copy":
-      "Consultoría creativa en la campaña de lanzamiento 2023 de los programas técnicos de la universidad — esos que casi nunca reciben presupuesto. Un solo concepto — <em>Aprende, Aplica, Avanza</em> — en vallas, radio y digital, escrito para muchachos de 18 años en Santander que están decidiendo en tiempo real si la universidad vale la pena.",
+      "Consultoría creativa en la campaña de lanzamiento para los programas técnicos de UDES — esos que casi nunca reciben presupuesto. Primero análisis de mercado, luego un solo concepto en vallas, radio y digital: <em>Aprende, Aplica, Avanza</em>. Escrito para jóvenes de 18 años en Bucaramanga que deciden en tiempo real si la universidad vale la pena; posicionado alrededor de empleabilidad inmediata, no prestigio. Al aire.",
     "work.udes.meta": "Aprende · Aplica · Avanza",
 
     "work.parentmap.tag": "Software · 2026",
@@ -195,9 +195,9 @@ const i18n = {
     "about.eyebrow": "Perfil",
     "about.title": "Bruto pero decidido.",
     "about.p1":
-      "Empecé a enseñar casi por accidente, cubriendo una clase para un amigo. Esa primera sesión fue lo que me trajo hasta aquí. Quince años después sigo enseñando — diseño, comunicación, UX y cómo usar IA sin perder el oficio — entre Isthmus en Panamá e Isthmus Norte en México.",
+      "La primera clase que di fue cubriendo a un amigo. No conocía a los estudiantes, no conocía el salón, no estaba seguro de volver la semana siguiente. Quince años después sigo en eso — ahora entre Isthmus en Panamá e Isthmus Norte en México — diseño, comunicación, UX y cómo usar IA sin perder el oficio.",
     "about.p2":
-      "El resto del tiempo — dirección creativa para marcas, libros con mi esposa y pequeños proyectos de software para seguir aprendiendo. La lista es corta porque prefiero hacer una cosa bien a diez mal.",
+      "Fuera del aula: dirección creativa para marcas como edding y UDES, tres libros de lettering con mi esposa Alejandra en Editorial Planeta, y Certeza Creativa — el trabajo de matrículas que estoy haciendo ahora para las dos escuelas. Lista corta. Prefiero hacer una cosa bien a diez mal.",
 
     "contact.eyebrow": "Contacto",
     "contact.title": "Hablemos.",
