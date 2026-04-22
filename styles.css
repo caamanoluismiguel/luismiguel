@@ -1035,8 +1035,16 @@ button:focus-visible {
     padding: 6rem 2rem 4rem;
     background: #f4ede4;
     background-image:
-      radial-gradient(circle at 18% 12%, rgba(227, 91, 47, 0.1) 0%, transparent 50%),
-      radial-gradient(circle at 82% 88%, rgba(255, 143, 63, 0.08) 0%, transparent 50%);
+      radial-gradient(
+        circle at 18% 12%,
+        rgba(227, 91, 47, 0.1) 0%,
+        transparent 50%
+      ),
+      radial-gradient(
+        circle at 82% 88%,
+        rgba(255, 143, 63, 0.08) 0%,
+        transparent 50%
+      );
   }
 
   .menu.is-open {

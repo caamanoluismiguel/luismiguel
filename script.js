@@ -82,9 +82,9 @@ const i18n = {
     "now.eyebrow": "Right now",
     "now.title": "Certeza Creativa.",
     "now.p1":
-      "An architecture school in Mexico asked me to help them tell their own story better — to the students they want, in a language those students actually use. I'm leading the campaign from strategy through first contact.",
+      "An enrollment campaign for two architecture schools — <strong>Isthmus in Panama</strong> and <strong>Isthmus Norte in Mexico</strong>. I'm helping them tell their own story better: to the students they want, in the language those students actually use. Strategy through first contact.",
     "now.p2":
-      "Details are confidential while the project runs. If you're working on something similar, I'm happy to compare notes.",
+      "Campaign details stay confidential while the work runs. If you're working on something similar, I'm happy to compare notes.",
 
     "about.eyebrow": "About",
     "about.title": "Bruto pero decidido.",
@@ -188,9 +188,9 @@ const i18n = {
     "now.eyebrow": "Ahora mismo",
     "now.title": "Certeza Creativa.",
     "now.p1":
-      "Una escuela de arquitectura en México me pidió ayuda para contar mejor su propia historia — a los estudiantes que quieren, en el lenguaje que esos estudiantes de verdad usan. Estoy liderando la campaña desde la estrategia hasta el primer contacto.",
+      "Una campaña de matrículas para dos escuelas de arquitectura — <strong>Isthmus en Panamá</strong> e <strong>Isthmus Norte en México</strong>. Les estoy ayudando a contar mejor su propia historia: a los estudiantes que quieren, en el lenguaje que esos estudiantes de verdad usan. Desde la estrategia hasta el primer contacto.",
     "now.p2":
-      "Los detalles se mantienen reservados mientras el proyecto avanza. Si trabajas en algo parecido, me encanta comparar notas.",
+      "Los detalles de la campaña se mantienen reservados mientras avanza el trabajo. Si trabajas en algo parecido, me encanta comparar notas.",
 
     "about.eyebrow": "Perfil",
     "about.title": "Bruto pero decidido.",
