@@ -55,7 +55,7 @@ const i18n = {
     "work.udes.tag": "Campaign · 2024",
     "work.udes.title": "UDES — Aprende, Aplica, Avanza",
     "work.udes.copy":
-      "Creative consulting on UDES's launch campaign for the technical programs — the ones that rarely get the budget. Market analysis first, then one concept across OOH, radio, and digital: <em>Aprende, Aplica, Avanza</em>. Written for 18-year-olds in Bucaramanga deciding in real time whether college is worth it; positioned around immediate employability, not prestige. On air.",
+      "Creative consulting on UDES's launch campaign for their technical programs — aimed at people who didn't get to study when they were younger, went straight into work, and now have a path back to <em>professionalize</em> what they already know how to do. Market analysis first, then one concept across OOH, radio, and digital: <em>Aprende, Aplica, Avanza</em>. Positioned around formalizing a career built by working, not starting from zero. On air in Bucaramanga.",
     "work.udes.meta": "Aprende · Aplica · Avanza",
 
     "work.parentmap.tag": "Software · 2026",
@@ -161,7 +161,7 @@ const i18n = {
     "work.udes.tag": "Campaña · 2024",
     "work.udes.title": "UDES — Aprende, Aplica, Avanza",
     "work.udes.copy":
-      "Consultoría creativa en la campaña de lanzamiento para los programas técnicos de UDES — esos que casi nunca reciben presupuesto. Primero análisis de mercado, luego un solo concepto en vallas, radio y digital: <em>Aprende, Aplica, Avanza</em>. Escrito para jóvenes de 18 años en Bucaramanga que deciden en tiempo real si la universidad vale la pena; posicionado alrededor de empleabilidad inmediata, no prestigio. Al aire.",
+      "Consultoría creativa en la campaña de lanzamiento para los programas técnicos de UDES — dirigida a personas que no alcanzaron a estudiar de jóvenes, entraron a trabajar y ahora tienen un camino de regreso para <em>profesionalizar</em> lo que ya saben hacer. Primero análisis de mercado, luego un solo concepto en vallas, radio y digital: <em>Aprende, Aplica, Avanza</em>. Posicionado alrededor de formalizar una carrera construida trabajando, no de empezar desde cero. Al aire en Bucaramanga.",
     "work.udes.meta": "Aprende · Aplica · Avanza",
 
     "work.parentmap.tag": "Software · 2026",
