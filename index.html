@@ -53,11 +53,11 @@
       href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500;6..96,700&family=IBM+Plex+Mono:wght@400;500&family=Sora:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=2" />
-    <script src="script.js?v=2" defer></script>
+    <link rel="stylesheet" href="styles.css?v=3" />
+    <script src="script.js?v=3" defer></script>
   </head>
   <body>
-    <a class="skip-link" href="#top">Skip to content</a>
+    <a class="skip-link" href="#main-content">Skip to content</a>
     <div class="noise" aria-hidden="true"></div>
     <div class="cursor-glow" aria-hidden="true"></div>
     <div
@@ -75,7 +75,16 @@
 
     <header class="topbar">
       <a class="logo" href="#top">LUIS MIGUEL CAAMAÑO</a>
-      <nav class="menu" aria-label="Primary">
+      <button
+        class="menu-toggle"
+        type="button"
+        aria-label="Open navigation"
+        aria-expanded="false"
+        aria-controls="primary-nav"
+      >
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="menu" id="primary-nav" aria-label="Primary">
         <a href="#work" data-i18n="nav.work">Work</a>
         <a href="#now" data-i18n="nav.now">Now</a>
         <a href="#mylettering" data-i18n="nav.mylettering">MyLettering</a>
@@ -101,7 +110,7 @@
     </header>
 
     <main id="top">
-      <section class="section hero">
+      <section class="section hero" id="main-content">
         <div class="hero-copy-wrap reveal">
           <p class="eyebrow" data-i18n="hero.eyebrow">
             Creative direction · Teaching · Made in LATAM
